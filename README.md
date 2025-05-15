@@ -1,4 +1,16 @@
-[![20220920_155307](https://res.cloudinary.com/phantomping/image/upload/v1747286828/p2tyec7dsvywahupdmma.png)](https://github.com/Rahul-Sudo-ToxciByte)
+import React from "react";
+
+export default function Rahul() {
+  return (
+    <div className="flex items-center justify-center h-screen">
+      <img 
+        src="https://user-images.githubusercontent.com/108818360/191234321-50af8b69-2e7d-4060-b05c-d1fdb8ec2b83.png" 
+        alt="Centered Image" 
+        className="w-1/2 lg:w-1/3 object-contain"
+      />
+    </div>
+  );
+}
 <h1 align="center">Hello World, I'm <a href="https://www.linkedin.com/in/g-rahul-871002255/" target="_blank"> Rahul </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&pause=1000&color=3EC156&center=true&width=435&lines=I%E2%80%99m+not+lazy.+I%E2%80%99m+just+on+energy+saving+mode+!;+If+it+works%2C+don%E2%80%99t+touch+it+again+%3A)" /> </h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611b9614e167ed147d113987d7e952266171629ec97&rid=giphy.gif&ct=g">
