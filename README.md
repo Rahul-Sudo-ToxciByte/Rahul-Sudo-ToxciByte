@@ -1,4 +1,4 @@
-[![20220920_155307](https://res.cloudinary.com/phantomping/image/upload/v1747292242/youujpze72hener55zhn.png)](https://github.com/Rahul-Sudo-ToxciByte)
+[![20220920_155307](https://res.cloudinary.com/phantomping/image/upload/f_auto,q_auto/v1/Github%20Project/zhiij8yh7nauoh97siyg)](https://github.com/Rahul-Sudo-ToxciByte)
 <h1 align="center">Hello World, I'm <a href="https://www.linkedin.com/in/g-rahul-871002255/" target="_blank"> Rahul </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&pause=1000&color=3EC156&center=true&width=435&lines=I%E2%80%99m+not+lazy.+I%E2%80%99m+just+on+energy+saving+mode+!;+If+it+works%2C+don%E2%80%99t+touch+it+again+%3A)" /> </h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611b9614e167ed147d113987d7e952266171629ec97&rid=giphy.gif&ct=g">
