@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Pentesting (Adminstration)**
 
-- 🏊🏻 Soon going to Dive into The World Of **Cyber Security**
+- 🏊🏻 Soon going to dive into The World Of **Cyber Security**
 
-- 👨‍💻 All of my projects are available at **<a href="https://linktr.ee/krishnaputra.rahul" target="_blank">Portfolio</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://phantompingrahul.netlify.app/" target="_blank">Portfolio</a>**
 
 - 💬 Ask me about **Cyber Security / TechTalks / Anime**
 
