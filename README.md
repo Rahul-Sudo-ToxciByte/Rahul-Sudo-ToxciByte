@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://x.com/rrahul3302" target="_blank"><img src="https://img.shields.io/twitter/follow/Rahul?logo=twitter&style=for-the-badge" alt="Rahul" /></a> </p>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRahul-Sudo-ToxciByte"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRahul-Sudo-ToxciByte&label=Total%20Visitors&countColor=%23263759" /></a>
-<a href="https://linktr.ee/krishnaputra.rahul" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<a href="https://linktr.ee/Toxci_Byte" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 
 - 🔭 I’m currently working on **Skills in Scripting ~> Cyber Security**
 
